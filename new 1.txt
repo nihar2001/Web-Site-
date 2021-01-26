@@ -1,0 +1,22 @@
+<html>
+<body>
+<table cellspacing="45"  align="center">
+<tr>
+<th><img src="C:\Users\nihar\Downloads\Early-Bird.png" style="float:left" width="280px" height="170px"></th>
+ <td ><img src="C:\Users\nihar\Downloads\s3p2.jpg" style="float:center" width="280px" height="170px"></td>
+ <th><img src="C:\Users\nihar\Downloads\Sunday.png" style="float:right" width="280px" height="170px"></th>
+<td > <img src="C:\Users\nihar\Downloads\suitesurprise.png" style="float:center" width="280px" height="170px"></td>
+ </tr>
+<tr><th ><img src="C:\Users\nihar\Downloads\jaipurfullday.png" style="float:left" width="280px" height="170px"></th>
+<td><img src="C:\Users\nihar\Downloads\Weekend.png" style="float:center" width="280px" height="170px"></td>
+<th><img src="C:\Users\nihar\Downloads\Triptochowki.png" style="float:right" width="280px" height="170px"></th>
+<th><img src="C:\Users\nihar\Downloads\StayMore_Offer.png" style="float:left" width="280px" height="170px"></th>
+</tr>
+<tr>
+<th><img src="C:\Users\nihar\Downloads\Business.png" style="float:left" width="280px" height="170px"></th>
+<td ><img src="C:\Users\nihar\Downloads\dayuse.png"  width="280px" height="170px"></td>
+<th><img src="C:\Users\nihar\Downloads\Last-Minute-deal.png" style="float:right" width="280px" height="170px"></th>
+</tr>
+
+ </body>
+</html>
